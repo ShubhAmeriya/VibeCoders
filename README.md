@@ -1,4 +1,4 @@
-# CryptoNex Platform
+# VibeGrid Marketplace
 
 A production-ready full-stack Next.js 14 App Router crypto trading, investment, and marketplace platform.
 
